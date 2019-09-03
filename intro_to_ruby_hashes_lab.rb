@@ -4,7 +4,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  family = {"brother 1" => Adrian
+  family = {"brother 1" => "Adrian"}
 end
 
 def pioneer
