@@ -34,7 +34,7 @@ def update_counting_hash(hash, key)
   if hash ["hello"] = 1 
     hash ["hello"] += 1 
   else
-    
+    hash ["hello"] = 1
   
     
   
